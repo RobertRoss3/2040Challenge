@@ -1,0 +1,20 @@
+{
+  "name": "2040apichallenge",
+  "version": "1.0.0",
+  "description": "Robert Ross entry to code2040 challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"hello\");"
+  },
+  "keywords": [
+    "2040",
+    "code",
+    "API"
+  ],
+  "author": "Robert Ross",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "https": "^1.0.0"
+  }
+}
